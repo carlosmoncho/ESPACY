@@ -10,16 +10,16 @@ A continuación se presentan algunos resultados de la ejecución del código.
 
 A continuación se muestran los resultados de la ejecución del código con textos en inglés.
 
-![Persona](images/1.png)
+![Persona](code/images/1.png)
 
-![Dinero](images/4.png)
+![Dinero](code/images/4.png)
 
-![Fecha](images/5.png)
+![Fecha](code/images/5.png)
 
 ### En español
 
 A continuación se muestran los resultados de la ejecución del código con textos en español.
 
-![Organización](images/2.png)
+![Organización](code/images/2.png)
 
-![Ubicación](images/3.png)
+![Ubicación](code/images/3.png)
