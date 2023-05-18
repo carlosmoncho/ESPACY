@@ -10,7 +10,7 @@ A continuación se presentan algunos resultados de la ejecución del código.
 
 A continuación se muestran los resultados de la ejecución del código con textos en inglés.
 
-![Persona](code/images/1.png)
+![Persona](code/images/1.PNG)
 
 ![Dinero](code/images/4.png)
 
